@@ -18,8 +18,7 @@ header {
     text-transform: uppercase;
     border-bottom: 4px solid #f191ac;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-    width: 90%;
-    max-width: 1100px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -54,7 +53,7 @@ input#search:focus {
 /* Container */
 .container {
     width: 90%;
-    max-width: 1100px;
+    max-width: 1300px;
     margin: 30px auto;
     background: white;
     padding: 20px;
@@ -64,13 +63,12 @@ input#search:focus {
 
 .table-container {
     width: 90%;
-    max-width: 1100px;
+    max-width: 1300px;
     margin: 0 auto;
     overflow-x: auto; /* Enables horizontal scrolling on small screens */
     background: white;
     padding: 20px;
     border-radius: 15px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
 /* Filter Section */
@@ -205,12 +203,6 @@ button:hover, th:hover {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .filter-container {
-        flex-direction: column;
-        align-items: stretch;
-        gap: 10px;
-    }
-
     input#search {
         width: 100%;
     }

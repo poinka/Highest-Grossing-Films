@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Highest-Grossing Films</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Highest-Grossing Films 🎬</h1>
+    </header>
+
+    <div class="container">
+        <label for="search">🔍 Search:</label>
+        <input type="text" id="search" placeholder="Search for a movie...">
+
+        <table id="filmsTable">
+            <thead>
+                <tr>
+                    <th onclick="sortTable(0)">Title ⬍</th>
+                    <th onclick="sortTable(1)">Year ⬍</th>
+                    <th onclick="sortTable(2)">Director ⬍</th>
+                    <th onclick="sortTable(3)">Box Office ⬍</th>
+                    <th onclick="sortTable(4)">Country ⬍</th>
+                    <th onclick="sortTable(5)">Running Time ⬍</th>
+                    <th onclick="sortTable(6)">Actors ⬍</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Movie data will be inserted here dynamically -->
+            </tbody>
+        </table>
+    </div>
+    <div class="graph">
+        <canvas id="actorBubbleChart" width="400" height="200"></canvas>
+    </div>
+    
+    <div class="filter-container">
+        <label for="minFilms">🎭 Min Movies:</label>
+        <input type="number" id="minFilms" min="1" max="10" value="3">
+    
+        <label for="yearRange">📅 Year Range:</label>
+        <input type="range" id="yearRange" min="1990" max="2025" step="1" value="2025" oninput="updateYearLabel()">
+        <span id="yearLabel">2025</span>
+    
+        <label for="bubbleSize">⚖ Bubble Size:</label>
+        <input type="range" id="bubbleSize" min="1" max="10" step="1" value="3" oninput="updateSizeLabel()">
+        <span id="sizeLabel">3</span>
+    
+        <button onclick="applyFilters()">🔄 Apply Filters</button>
+    </div>
+    
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+
+    <footer>
+        <p>📚 Assignment 1 - Data Wrangling and Visualization | Created with ❤️</p>
+    </footer>
+    
+</body>
+</html>

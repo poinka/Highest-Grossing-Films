@@ -1,0 +1,232 @@
+/* General Styles */
+body {
+    font-family: "Poppins", sans-serif;
+    background: linear-gradient(to right, #fde2e4, #fad2e1);
+    color: #4a4a4a;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background: #f28fb6;
+    padding: 20px;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 4px solid #f191ac;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Container */
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 30px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.table-container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+    overflow-x: auto; /* Enables horizontal scrolling on small screens */
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Search Bar */
+input#search {
+    width: 80%;
+    max-width: 400px;
+    padding: 10px;
+    border-radius: 25px;
+    border: 2px solid #f28fb6;
+    outline: none;
+    transition: 0.3s ease-in-out;
+    font-size: 16px;
+    background: #ffeff7;
+    color: #d63384;
+}
+
+input#search:focus {
+    border-color: #e05687;
+    box-shadow: 0px 0px 10px rgba(242, 143, 182, 0.5);
+}
+
+/* Filter Section */
+.filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 15px;
+    background: #fff0f5;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.filter-container label {
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #d63384;
+}
+
+.filter-container input[type="number"],
+.filter-container input[type="range"] {
+    flex-grow: 1;
+    max-width: 120px;
+    border: none;
+    padding: 6px;
+    border-radius: 8px;
+    outline: none;
+    background: white;
+    color: #d63384;
+    transition: all 0.3s ease-in-out;
+}
+
+.filter-container input[type="range"] {
+    width: 200px;
+    accent-color: #f28fb6;
+}
+
+/* Button Styling */
+.filter-container button {
+    background: #d63384;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    transition: 0.3s ease-in-out;
+}
+
+.filter-container button:hover {
+    background: #b52c6a;
+    transform: scale(1.05);
+}
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    min-width: 700px; /* Ensures the table is not too narrow */
+}
+
+table th, table td {
+    padding: 12px;
+    border-bottom: 1px solid #f7c5e0;
+    text-align: center;
+    font-size: 16px;
+}
+
+table th {
+    background: #f28fb6;
+    color: white;
+    cursor: pointer;
+    font-size: 17px;
+    transition: all 0.3s ease-in-out;
+}
+
+table th:hover {
+    background: #d63384;
+}
+
+table tr:nth-child(even) {
+    background: #fff0f5;
+}
+
+table tr:hover {
+    background: #ffe4ec;
+    transition: background 0.3s ease-in-out;
+}
+
+/* Bubble Chart */
+.graph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    width: 90%;
+    max-width: 900px;
+}
+
+/* Bubble Chart */
+canvas {
+    display: block;
+    width: 100% !important;
+    height: 450px !important;
+}
+
+/* Animated Hover Effects */
+@keyframes pop {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+button:hover, th:hover {
+    animation: pop 0.3s ease-in-out;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .filter-container {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+    }
+
+    input#search {
+        width: 100%;
+    }
+    .table-container {
+        overflow-x: scroll; /* Enables scrolling if the table is too wide */
+    }
+}
+
+/* Footer Styling */
+footer {
+    background: #f28fb6;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    border-top: 3px solid #f191ac;
+    box-shadow: 0 -3px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    footer {
+        font-size: 12px;
+        padding: 10px;
+    }
+}

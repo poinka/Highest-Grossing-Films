@@ -15,22 +15,24 @@
         <label for="search">🔍 Search:</label>
         <input type="text" id="search" placeholder="Search for a movie...">
 
-        <table id="filmsTable">
-            <thead>
-                <tr>
-                    <th onclick="sortTable(0)">Title ⬍</th>
-                    <th onclick="sortTable(1)">Year ⬍</th>
-                    <th onclick="sortTable(2)">Director ⬍</th>
-                    <th onclick="sortTable(3)">Box Office ⬍</th>
-                    <th onclick="sortTable(4)">Country ⬍</th>
-                    <th onclick="sortTable(5)">Running Time ⬍</th>
-                    <th onclick="sortTable(6)">Actors ⬍</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- Movie data will be inserted here dynamically -->
-            </tbody>
-        </table>
+        <div class="table-container">
+            <table id="filmsTable">
+                <thead>
+                    <tr>
+                        <th onclick="sortTable(0)">Title ⬍</th>
+                        <th onclick="sortTable(1)">Year ⬍</th>
+                        <th onclick="sortTable(2)">Director ⬍</th>
+                        <th onclick="sortTable(3)">Box Office ⬍</th>
+                        <th onclick="sortTable(4)">Country ⬍</th>
+                        <th onclick="sortTable(5)">Running Time ⬍</th>
+                        <th onclick="sortTable(6)">Actors ⬍</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Movie data will be inserted here dynamically -->
+                </tbody>
+            </table>
+        </div>
     </div>
     <div class="graph">
         <canvas id="actorBubbleChart" width="400" height="200"></canvas>

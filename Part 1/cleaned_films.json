@@ -1,0 +1,502 @@
+[
+    {
+        "title":"Avatar",
+        "release_year":2009,
+        "box_office":2923706026,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Avatar_(2009_film)",
+        "directors":"James Cameron",
+        "country":"United Kingdom, United States",
+        "running_time":162,
+        "actors":"Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez, Sigourney Weaver"
+    },
+    {
+        "title":"Pirates of the Caribbean: Dead Man's Chest",
+        "release_year":2006,
+        "box_office":1066179747,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest",
+        "directors":"Gore Verbinski",
+        "country":"United States",
+        "running_time":151,
+        "actors":"Johnny Depp, Orlando Bloom, Keira Knightley, Stellan Skarsgård, Bill Nighy, Jack Davenport, Kevin R. McNally, Jonathan Pryce"
+    },
+    {
+        "title":"Toy Story 3",
+        "release_year":2010,
+        "box_office":1066970811,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Toy_Story_3",
+        "directors":"Lee Unkrich",
+        "country":"United States",
+        "running_time":103,
+        "actors":"Tom Hanks, Tim Allen, Joan Cusack, Don Rickles, Wallace Shawn, John Ratzenberger, Estelle Harris, Ned Beatty, Michael Keaton, Jodi Benson, John Morris"
+    },
+    {
+        "title":"Despicable Me 3",
+        "release_year":2017,
+        "box_office":1034800131,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Despicable_Me_3",
+        "directors":"Pierre Coffin, Kyle Balda",
+        "country":"United States",
+        "running_time":90,
+        "actors":"Steve Carell, Kristen Wiig, Trey Parker, Miranda Cosgrove, Steve Coogan, Jenny Slate, Dana Gaier, Julie Andrews"
+    },
+    {
+        "title":"Moana 2",
+        "release_year":2024,
+        "box_office":1053422063,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Moana_2",
+        "directors":"David Derrick Jr.",
+        "country":"United States",
+        "running_time":100,
+        "actors":"Dwayne Johnson, Auliʻi Cravalho"
+    },
+    {
+        "title":"Toy Story 4",
+        "release_year":2019,
+        "box_office":1073394593,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Toy_Story_4",
+        "directors":"Josh Cooley",
+        "country":"United States",
+        "running_time":100,
+        "actors":"Tom Hanks, Tim Allen, Annie Potts, Tony Hale, Keegan-Michael Key, Jordan Peele, Madeleine McGraw, Christina Hendricks, Keanu Reeves, Ally Maki, Jay Hernandez, Lori Alan, Joan Cusack"
+    },
+    {
+        "title":"Pirates of the Caribbean: On Stranger Tides",
+        "release_year":2011,
+        "box_office":1045713802,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+        "directors":"Rob Marshall",
+        "country":"United States",
+        "running_time":137,
+        "actors":"Johnny Depp, Penélope Cruz, Ian McShane, Kevin R. McNally, Geoffrey Rush"
+    },
+    {
+        "title":"Aladdin",
+        "release_year":2019,
+        "box_office":1050693953,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Aladdin_(2019_film)",
+        "directors":"Guy Ritchie",
+        "country":"United States",
+        "running_time":128,
+        "actors":"Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari, Navid Negahban, Nasim Pedrad, Billy Magnussen"
+    },
+    {
+        "title":"Star Wars: Episode I – The Phantom Menace",
+        "release_year":1999,
+        "box_office":1046515409,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
+        "directors":"George Lucas",
+        "country":"United States",
+        "running_time":134,
+        "actors":"Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Anthony Daniels, Kenny Baker, Pernilla August, Frank Oz"
+    },
+    {
+        "title":"Rogue One: A Star Wars Story",
+        "release_year":2016,
+        "box_office":1057420387,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Rogue_One:_A_Star_Wars_Story",
+        "directors":"Gareth Edwards",
+        "country":"United States",
+        "running_time":134,
+        "actors":"Felicity Jones, Diego Luna, Ben Mendelsohn, Donnie Yen, Mads Mikkelsen, Alan Tudyk, Jiang Wen, Forest Whitaker"
+    },
+    {
+        "title":"Jurassic Park",
+        "release_year":1993,
+        "box_office":1037535230,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Jurassic_Park_(film)",
+        "directors":"Steven Spielberg",
+        "country":"United States",
+        "running_time":127,
+        "actors":"Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Bob Peck, Martin Ferrero, BD Wong, Samuel L. Jackson, Wayne Knight, Joseph Mazzello, Ariana Richards"
+    },
+    {
+        "title":"The Dark Knight Rises",
+        "release_year":2012,
+        "box_office":1081169825,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/The_Dark_Knight_Rises",
+        "directors":"Christopher Nolan",
+        "country":"United States, United Kingdom",
+        "running_time":164,
+        "actors":"Christian Bale, Michael Caine, Gary Oldman, Anne Hathaway, Tom Hardy, Marion Cotillard, Joseph Gordon-Levitt, Morgan Freeman"
+    },
+    {
+        "title":"Star Wars: The Rise of Skywalker",
+        "release_year":2019,
+        "box_office":1074144248,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Star_Wars:_The_Rise_of_Skywalker",
+        "directors":"J. J. Abrams",
+        "country":"United States",
+        "running_time":142,
+        "actors":"Carrie Fisher, Mark Hamill, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Anthony Daniels, Naomi Ackie, Domhnall Gleeson, Richard E. Grant, Lupita Nyong'o, Keri Russell, Joonas Suotamo, Kelly Marie Tran, Ian McDiarmid, Billy Dee Williams"
+    },
+    {
+        "title":"Joker",
+        "release_year":2019,
+        "box_office":1074458282,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Joker_(2019_film)",
+        "directors":"Todd Phillips",
+        "country":"United States",
+        "running_time":122,
+        "actors":"Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy"
+    },
+    {
+        "title":"Transformers: Age of Extinction",
+        "release_year":2014,
+        "box_office":1104054072,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Transformers:_Age_of_Extinction",
+        "directors":"Michael Bay",
+        "country":"United States",
+        "running_time":165,
+        "actors":"Mark Wahlberg, Stanley Tucci"
+    },
+    {
+        "title":"Transformers: Dark of the Moon",
+        "release_year":2011,
+        "box_office":1123794079,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Transformers:_Dark_of_the_Moon",
+        "directors":"Michael Bay",
+        "country":"United States",
+        "running_time":154,
+        "actors":"Shia LaBeouf, Josh Duhamel, John Turturro, Tyrese Gibson, Rosie Huntington-Whiteley, Patrick Dempsey, Kevin Dunn, Julie White, John Malkovich, Frances McDormand"
+    },
+    {
+        "title":"Skyfall",
+        "release_year":2012,
+        "box_office":1108594137,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Skyfall",
+        "directors":"Sam Mendes",
+        "country":"United Kingdom, United States",
+        "running_time":143,
+        "actors":"Daniel Craig, Javier Bardem, Ralph Fiennes, Naomie Harris, Bérénice Marlohe, Albert Finney, Judi Dench"
+    },
+    {
+        "title":"Spider-Man: Far From Home",
+        "release_year":2019,
+        "box_office":1132679685,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Spider-Man:_Far_From_Home",
+        "directors":"Jon Watts",
+        "country":"United States",
+        "running_time":129,
+        "actors":"Tom Holland, Samuel L. Jackson, Zendaya, Cobie Smulders, Jon Favreau, J. B. Smoove, Jacob Batalon, Martin Starr, Tony Revolori, Marisa Tomei, Jake Gyllenhaal"
+    },
+    {
+        "title":"The Lord of the Rings: The Return of the King",
+        "release_year":2003,
+        "box_office":1147997407,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/The_Lord_of_the_Rings:_The_Return_of_the_King",
+        "directors":"Peter Jackson",
+        "country":"New Zealand, Germany, United States",
+        "running_time":201,
+        "actors":"Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Bernard Hill, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving, Miranda Otto, David Wenham, Karl Urban, John Noble, Andy Serkis, Ian Holm, Sean Bean"
+    },
+    {
+        "title":"Aquaman",
+        "release_year":2018,
+        "box_office":1148528393,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Aquaman_(film)",
+        "directors":"James Wan",
+        "country":"United States",
+        "running_time":143,
+        "actors":"Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen II, Nicole Kidman"
+    },
+    {
+        "title":"Captain Marvel",
+        "release_year":2019,
+        "box_office":1128274794,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Captain_Marvel_(film)",
+        "directors":"Anna Boden, Ryan Fleck",
+        "country":"United States",
+        "running_time":124,
+        "actors":"Brie Larson, Samuel L. Jackson, Ben Mendelsohn, Djimon Hounsou, Lee Pace, Lashana Lynch, Gemma Chan, Annette Bening, Clark Gregg, Jude Law"
+    },
+    {
+        "title":"Minions",
+        "release_year":2015,
+        "box_office":1159444662,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Minions_(film)",
+        "directors":"Pierre Coffin, Kyle Balda",
+        "country":"United States",
+        "running_time":91,
+        "actors":"Sandra Bullock, Jon Hamm, Michael Keaton, Allison Janney, Steve Coogan, Jennifer Saunders, Geoffrey Rush"
+    },
+    {
+        "title":"Captain America: Civil War",
+        "release_year":2016,
+        "box_office":1153337496,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Captain_America:_Civil_War",
+        "directors":"Anthony Russo, Joe Russo",
+        "country":"United States",
+        "running_time":147,
+        "actors":"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Emily VanCamp, Marisa Tomei, Tom Holland, Frank Grillo, Martin Freeman, William Hurt, Daniel Brühl"
+    },
+    {
+        "title":"Iron Man 3",
+        "release_year":2013,
+        "box_office":1214811252,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Iron_Man_3",
+        "directors":"Shane Black",
+        "country":"United States",
+        "running_time":131,
+        "actors":"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stéphanie Szostak, James Badge Dale, William Sadler, Miguel Ferrer, Jon Favreau, Ben Kingsley"
+    },
+    {
+        "title":"The Fate of the Furious",
+        "release_year":2017,
+        "box_office":1238764765,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/The_Fate_of_the_Furious",
+        "directors":"F. Gary Gray",
+        "country":"United States, China",
+        "running_time":136,
+        "actors":"Dwayne Johnson, Jason Statham, Michelle Rodriguez, Tyrese Gibson, Chris \"Ludacris\" Bridges, Kurt Russell, Charlize Theron"
+    },
+    {
+        "title":"Incredibles 2",
+        "release_year":2018,
+        "box_office":1242805359,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Incredibles_2",
+        "directors":"Brad Bird",
+        "country":"United States",
+        "running_time":118,
+        "actors":"Craig T. Nelson, Holly Hunter, Sarah Vowell, Samuel L. Jackson, Bob Odenkirk, Catherine Keener, Jonathan Banks"
+    },
+    {
+        "title":"Frozen",
+        "release_year":2013,
+        "box_office":1290000000,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Frozen_(2013_film)",
+        "directors":"Chris Buck, Jennifer Lee",
+        "country":"United States",
+        "running_time":102,
+        "actors":"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, Santino Fontana"
+    },
+    {
+        "title":"Beauty and the Beast",
+        "release_year":2017,
+        "box_office":1263521126,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Beauty_and_the_Beast_(2017_film)",
+        "directors":"Bill Condon",
+        "country":"United States",
+        "running_time":129,
+        "actors":"Emma Watson, Dan Stevens, Luke Evans, Kevin Kline, Josh Gad, Ewan McGregor, Stanley Tucci, Audra McDonald, Gugu Mbatha-Raw, Ian McKellen, Emma Thompson"
+    },
+    {
+        "title":"Jurassic World: Fallen Kingdom",
+        "release_year":2018,
+        "box_office":1308473425,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Jurassic_World:_Fallen_Kingdom",
+        "directors":"J. A. Bayona",
+        "country":"China, United States",
+        "running_time":128,
+        "actors":"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Toby Jones, Ted Levine, BD Wong, Jeff Goldblum"
+    },
+    {
+        "title":"Frozen 2",
+        "release_year":2019,
+        "box_office":1450026933,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Frozen_2",
+        "directors":"Chris Buck, Jennifer Lee",
+        "country":"United States",
+        "running_time":103,
+        "actors":"Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff"
+    },
+    {
+        "title":"Harry Potter and the Deathly Hallows – Part 2",
+        "release_year":2011,
+        "box_office":1342139727,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2",
+        "directors":"David Yates",
+        "country":"United Kingdom, United States",
+        "running_time":130,
+        "actors":"Daniel Radcliffe, Rupert Grint, Emma Watson, Helena Bonham Carter, Robbie Coltrane, Warwick Davis, Ralph Fiennes, Michael Gambon, John Hurt, Jason Isaacs, Gary Oldman, Alan Rickman, Maggie Smith, David Thewlis, Julie Walters"
+    },
+    {
+        "title":"Avengers: Age of Ultron",
+        "release_year":2015,
+        "box_office":1402809540,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Avengers:_Age_of_Ultron",
+        "directors":"Joss Whedon",
+        "country":"United States",
+        "running_time":141,
+        "actors":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Don Cheadle, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, Anthony Mackie, Hayley Atwell, Idris Elba, Linda Cardellini, Stellan Skarsgård, James Spader, Samuel L. Jackson"
+    },
+    {
+        "title":"Barbie",
+        "release_year":2023,
+        "box_office":1447038421,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Barbie_(film)",
+        "directors":"Greta Gerwig",
+        "country":"United States, United Kingdom",
+        "running_time":114,
+        "actors":"Ryan Gosling, America Ferrera, Kate McKinnon, Issa Rae, Rhea Perlman, Will Ferrell"
+    },
+    {
+        "title":"Star Wars: The Last Jedi",
+        "release_year":2017,
+        "box_office":1332539889,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Star_Wars:_The_Last_Jedi",
+        "directors":"Rian Johnson",
+        "country":"United States",
+        "running_time":152,
+        "actors":"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels, Gwendoline Christie, Kelly Marie Tran, Laura Dern, Benicio del Toro"
+    },
+    {
+        "title":"The Super Mario Bros. Movie",
+        "release_year":2023,
+        "box_office":1362566989,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/The_Super_Mario_Bros._Movie",
+        "directors":"Aaron Horvath, Michael Jelenic",
+        "country":"United States",
+        "running_time":92,
+        "actors":"Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan-Michael Key, Seth Rogen, Fred Armisen"
+    },
+    {
+        "title":"Black Panther",
+        "release_year":2018,
+        "box_office":1347280838,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Black_Panther_(film)",
+        "directors":"Ryan Coogler",
+        "country":"United States",
+        "running_time":134,
+        "actors":"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Sterling K. Brown, Angela Bassett, Forest Whitaker, Andy Serkis"
+    },
+    {
+        "title":"The Lion King",
+        "release_year":2019,
+        "box_office":1656943394,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/The_Lion_King_(2019_film)",
+        "directors":"Jon Favreau",
+        "country":"United States",
+        "running_time":118,
+        "actors":"Donald Glover, Seth Rogen, Chiwetel Ejiofor, Alfre Woodard, Billy Eichner, John Kani, John Oliver, Beyoncé Knowles-Carter, James Earl Jones"
+    },
+    {
+        "title":"Top Gun: Maverick",
+        "release_year":2022,
+        "box_office":1495696292,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Top_Gun:_Maverick",
+        "directors":"Joseph Kosinski",
+        "country":"United States",
+        "running_time":131,
+        "actors":"Miles Teller, Jennifer Connelly, Jon Hamm, Glen Powell, Ed Harris, Val Kilmer"
+    },
+    {
+        "title":"Furious 7",
+        "release_year":2015,
+        "box_office":1515341399,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Furious_7",
+        "directors":"James Wan",
+        "country":"United States, China",
+        "running_time":137,
+        "actors":"Paul Walker, Dwayne Johnson, Michelle Rodriguez, Tyrese Gibson, Chris \"Ludacris\" Bridges, Jordana Brewster, Djimon Hounsou, Kurt Russell, Jason Statham"
+    },
+    {
+        "title":"The Avengers",
+        "release_year":2012,
+        "box_office":1518815515,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/The_Avengers_(2012_film)",
+        "directors":"Joss Whedon",
+        "country":"United States",
+        "running_time":143,
+        "actors":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Tom Hiddleston, Stellan Skarsgård, Samuel L. Jackson"
+    },
+    {
+        "title":"Inside Out 2",
+        "release_year":2024,
+        "box_office":1698863816,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Inside_Out_2",
+        "directors":"Kelsey Mann",
+        "country":"United States",
+        "running_time":96,
+        "actors":"Amy Poehler, Maya Hawke, Liza Lapira, Tony Hale, Lewis Black, Phyllis Smith, Ayo Edebiri, Lilimar, Adèle Exarchopoulos, Diane Lane, Kyle MacLachlan, Paul Walter Hauser"
+    },
+    {
+        "title":"Jurassic World",
+        "release_year":2015,
+        "box_office":1671537444,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Jurassic_World",
+        "directors":"Colin Trevorrow",
+        "country":"United States",
+        "running_time":124,
+        "actors":"Chris Pratt, Bryce Dallas Howard, Vincent D'Onofrio, Ty Simpkins, Nick Robinson, Omar Sy, BD Wong, Irrfan Khan"
+    },
+    {
+        "title":"Ne Zha 2",
+        "release_year":2025,
+        "box_office":1911164560,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Ne_Zha_2",
+        "directors":"Jiaozi",
+        "country":"China",
+        "running_time":144,
+        "actors":"Unknown"
+    },
+    {
+        "title":"Spider-Man: No Way Home",
+        "release_year":2021,
+        "box_office":1952732181,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Spider-Man:_No_Way_Home",
+        "directors":"Jon Watts",
+        "country":"United States",
+        "running_time":148,
+        "actors":"Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Jon Favreau, Jamie Foxx, Willem Dafoe, Alfred Molina, Benedict Wong, Tony Revolori, Marisa Tomei, Andrew Garfield, Tobey Maguire"
+    },
+    {
+        "title":"Avengers: Infinity War",
+        "release_year":2018,
+        "box_office":2048359754,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Avengers:_Infinity_War",
+        "directors":"Anthony Russo, Joe Russo",
+        "country":"United States",
+        "running_time":149,
+        "actors":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldaña, Josh Brolin, Chris Pratt"
+    },
+    {
+        "title":"Star Wars: The Force Awakens",
+        "release_year":2015,
+        "box_office":2068223624,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Star_Wars:_The_Force_Awakens",
+        "directors":"J. J. Abrams",
+        "country":"United States",
+        "running_time":138,
+        "actors":"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis, Domhnall Gleeson, Anthony Daniels, Peter Mayhew, Max von Sydow"
+    },
+    {
+        "title":"Avatar: The Way of Water",
+        "release_year":2022,
+        "box_office":2320250281,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Avatar:_The_Way_of_Water",
+        "directors":"James Cameron",
+        "country":"United States",
+        "running_time":192,
+        "actors":"Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang, Kate Winslet"
+    },
+    {
+        "title":"Titanic",
+        "release_year":1997,
+        "box_office":2257844554,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Titanic_(1997_film)",
+        "directors":"James Cameron",
+        "country":"United States",
+        "running_time":195,
+        "actors":"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher, Bernard Hill, Jonathan Hyde, Danny Nucci, David Warner, Bill Paxton"
+    },
+    {
+        "title":"Avengers: Endgame",
+        "release_year":2019,
+        "box_office":2797501328,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Avengers:_Endgame",
+        "directors":"Anthony Russo, Joe Russo",
+        "country":"United States",
+        "running_time":181,
+        "actors":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow, Josh Brolin"
+    },
+    {
+        "title":"Deadpool & Wolverine",
+        "release_year":2024,
+        "box_office":1338073645,
+        "wiki_link":"https:\/\/en.wikipedia.org\/wiki\/Deadpool_%26_Wolverine",
+        "directors":"Shawn Levy",
+        "country":"United States",
+        "running_time":128,
+        "actors":"Hugh Jackman, Emma Corrin, Morena Baccarin, Rob Delaney, Leslie Uggams, Aaron Stanford, Matthew Macfadyen"
+    }
+]
